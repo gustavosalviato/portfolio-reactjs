@@ -1,0 +1,36 @@
+.container{
+ width: 21.5rem;
+ background-color: var(--bg-cards);
+ padding: 1.875rem;
+ width: 100%;
+ border-radius: 0.5rem;
+}
+
+h3{
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.technologies{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  flex-flow: wrap;
+  gap: 0.938rem;
+}
+
+.technologies div{
+  background-color: var(--bg-techs);
+  width: 5.313rem;
+  height: 1.563rem;
+  border-radius: 1.875rem;
+  display: flex;
+}
+
+.technologies div span{
+  font-size: 0.688rem;
+  margin: auto;
+  color: #000;
+  font-weight: 700;
+  font-size: 0.75rem;
+}

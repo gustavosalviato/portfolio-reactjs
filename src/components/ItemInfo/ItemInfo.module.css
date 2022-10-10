@@ -1,0 +1,22 @@
+.item{
+  list-style-type: none;
+  padding-left: 2.5rem;
+}
+
+.item li{
+ list-style-type: disc;
+}
+
+.item  li h4{
+ font-size: 1.125rem;
+ font-weight: 700;
+}
+
+.item li span{
+ font-weight: 200;
+ font-size: 1rem;
+ padding: 0;
+ display: flex;
+ line-height: 100%;
+ margin: 0.25rem 0;
+}
