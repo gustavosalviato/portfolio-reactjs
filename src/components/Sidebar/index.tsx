@@ -12,7 +12,8 @@ const Sidebar = () => {
       <Links />
       <Technologies />
       <Experiencies />
-      <Education/>
+      <Education />
+      {/* <h1>Feito ♥ por gustavosalviato</h1> */}
     </aside>
   )
 }
