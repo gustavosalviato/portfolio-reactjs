@@ -3,6 +3,7 @@ import Links from '../Links'
 import styles from './Sidebar.module.css'
 import Technologies from '../Technologies'
 import Experiencies from '../Experiencies'
+import Education from '../Education'
 
 const Sidebar = () => {
   return (
@@ -11,6 +12,7 @@ const Sidebar = () => {
       <Links />
       <Technologies />
       <Experiencies />
+      <Education/>
     </aside>
   )
 }
