@@ -1,0 +1,9 @@
+.footer{
+    width: 100vw;
+}
+
+.footer h3{
+    text-align: center;
+    font-size: 0.875rem;
+    font-weight: 400;
+}

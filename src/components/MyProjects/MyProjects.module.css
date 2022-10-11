@@ -1,0 +1,17 @@
+.myProjects{
+    margin: 2.5rem 2.5rem 2.5rem 3rem;
+    display: flex;
+    flex: 1;
+    width: 100%;
+    background-color: red;
+    height: 5.375rem;
+    border-radius: 0.5rem;
+    padding: 1.875rem;
+    justify-content: space-between;
+    background-color: var(--bg-cards);
+}
+
+
+span{
+    cursor: pointer;
+}

@@ -4,6 +4,7 @@ import styles from './Sidebar.module.css'
 import Technologies from '../Technologies'
 import Experiencies from '../Experiencies'
 import Education from '../Education'
+import Footer from '../Footer'
 
 const Sidebar = () => {
   return (
@@ -13,7 +14,7 @@ const Sidebar = () => {
       <Technologies />
       <Experiencies />
       <Education />
-      {/* <h1>Feito ♥ por gustavosalviato</h1> */}
+      <Footer/>
     </aside>
   )
 }
