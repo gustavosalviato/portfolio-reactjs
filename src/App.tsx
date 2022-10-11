@@ -1,13 +1,15 @@
 import styles from './App.module.css'
+import MainContent from './components/MainContent'
 import MyProjects from './components/MyProjects'
 import Sidebar from "./components/Sidebar"
 
 function App() {
   return (
-    <div className={styles.content}>
+    <div style={{ display: 'flex' }}>
       <Sidebar />
+      <MainContent />
 
-      <MyProjects/>
+
     </div>
   )
 }

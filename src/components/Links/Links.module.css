@@ -4,7 +4,8 @@
   border-radius: 0.5rem;
   width: 100%;
   padding: 1.875rem 0 2.125rem 2.5rem;
-  gap: 5.188rem
+  gap: 5.188rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .list{
