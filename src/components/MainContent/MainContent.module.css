@@ -3,3 +3,8 @@
   flex: 1;
   margin: 2.5rem  2.5rem 2.75rem 3.75rem;
 }
+
+.grid{
+  display: flex;
+  gap: 1.75rem;
+}

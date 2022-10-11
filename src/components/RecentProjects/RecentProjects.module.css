@@ -1,0 +1,9 @@
+.recent{
+  background-color: var(--bg-cards);
+  padding: 1.875rem;
+  border-radius: 0.5rem;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  height: 5.375rem;
+  margin-bottom: 1.875rem;
+}

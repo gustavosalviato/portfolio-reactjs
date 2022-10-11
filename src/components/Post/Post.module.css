@@ -1,0 +1,45 @@
+.post{
+  height: 12.5rem;
+  padding: 1.875rem;
+  background-color: var(--bg-cards);
+  display: flex;
+  border-radius: 0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.post img {
+  width: 8rem;
+  height: 8rem;
+  object-fit: cover;
+  margin: auto 1.25rem auto 0.625rem; 
+}
+
+.infoRepo h3{
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin-bottom: 0.75rem;
+}
+
+.duration {
+  margin-bottom: 1.75rem;
+}
+
+.infoRepo h5 {
+  padding: 0;
+  text-align: justify;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+h5.title{
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.technologies{
+  margin-top: 0.625rem;
+  display: flex;
+  gap: 0.625rem;
+  font-weight: 400;
+  font-size: 0.875rem;
+}
