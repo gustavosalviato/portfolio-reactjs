@@ -9,6 +9,7 @@
   justify-content: space-between;
   padding: 1.875rem;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-bottom: 2.75rem;
 }
 
 h3{
@@ -20,4 +21,5 @@ span{
   font-weight: 400;
   font-size: 0.875rem
 }
+
 

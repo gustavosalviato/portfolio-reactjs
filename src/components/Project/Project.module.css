@@ -1,0 +1,37 @@
+.project{
+  padding: 1.875rem;
+  background-color: var(--bg-cards);
+  border-radius: 0.5rem;
+  width: 50%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+.topContainer{
+  display: flex;
+  gap: 1.125rem;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+
+.project p{
+  font-weight: 400;
+  font-size: 0.875rem;
+  text-align: justify;
+  margin-bottom: 1rem;
+}
+
+.language{
+  display: flex;
+  margin-left: auto;
+  gap: 0.5rem;
+}
+.circle{
+  padding: 3px 6px;
+  background-color: var(--yellow);
+  border-radius: 999px;
+  width: 16px;
+  height: 16px;
+  border: 2px solid var(--gray-100);
+}
