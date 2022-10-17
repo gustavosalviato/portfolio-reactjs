@@ -1,8 +1,20 @@
-# portfolio-reactjs
+<h1 align="center">
+    <a href="https://todoitdev.netlify.app">🔗 To Do It</a>
+</h1>
 
-## Esse é um desafio para treinar Design HTML e CSS sugerido pela RockeatSeat!
-### Link do Layout Figma
-https://www.figma.com/file/6lRDqeVxmIScalMhgq6i7C/DD-%2F-Portfolio-(Copy)?node-id=102%3A2
+<p align="center">🚀 Aplicação de Lista de Tarefas para organização de estudos e tarefas</p>
+
+### Features
+
+- [x] Cadastro de tarefas
+- [x] Concluir tarefas
+- [x] Excluir tarefas
+- [x] Editar tarefas cadastradas
+
+
+<h2 align="center">
+    <a href="https://todoitdev.netlify.app">🔗 To Do It</a>
+</h2>
 
 
 ## Guia de instalação
@@ -13,11 +25,11 @@ git clone https://github.com/gustavosalviato/portfolio-reactjs.git
 ```
 
 2- Instalar as depedências
-```sh
+```js
 npm install
 ```
 
 2- Por fim, rode o projeto
-```sh
+```js
 npm run dev
 ```
